@@ -1,0 +1,12 @@
+SMAP
+Java_005fexample_005fdb_005finsert_jsp.java
+JSP
+*S JSP
+*F
++ 0 Java_example_db_insert.jsp
+Java_example_db_insert.jsp
+*L
+1,7:48
+11,29:58
+39,4:87
+*E
